@@ -17,6 +17,9 @@ public class GITTEST {
     public static void main(String[] args) {
        System.out.print("Hei");
        //Dette var bare en test
+        
+        
+      System.out.print("Sjekk om den kan hente ned filen fra GIT");
     }
     
 }
