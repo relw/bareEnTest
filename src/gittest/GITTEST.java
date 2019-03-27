@@ -16,6 +16,7 @@ public class GITTEST {
      */
     public static void main(String[] args) {
        System.out.print("Hei");
+       //Dette var bare en test
     }
     
 }
